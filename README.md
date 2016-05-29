@@ -1,12 +1,9 @@
 # Introduction to Text Classification
----
-
 
 ## _Zichen Wang_
 
 
 ## Overview of this presentation/tutorial
----
 
 1. Prepare some data ([0_prepare_data](0_prepare_data.ipynb))
 2. Natural Language Processing Basics
@@ -22,7 +19,6 @@
 
 
 ## Requrirements
----
 
 To run the notebooks, install modules on Python2.7 in [requirements.txt](requirements.txt).
 ```bash
