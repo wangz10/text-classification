@@ -2,6 +2,8 @@
 
 ## _Zichen Wang_
 
+[![DOI](https://zenodo.org/badge/22891/wangz10/text-classification.svg)](https://zenodo.org/badge/latestdoi/22891/wangz10/text-classification)
+
 
 ## Overview of this presentation/tutorial
 
